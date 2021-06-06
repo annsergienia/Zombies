@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Zombies\bin\Debug\netcoreapp3.1\Zombies.exe
+C:\Users\HP\source\repos\Zombies\bin\Debug\netcoreapp3.1\Zombies.deps.json
+C:\Users\HP\source\repos\Zombies\bin\Debug\netcoreapp3.1\Zombies.runtimeconfig.json
+C:\Users\HP\source\repos\Zombies\bin\Debug\netcoreapp3.1\Zombies.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Zombies\bin\Debug\netcoreapp3.1\Zombies.dll
+C:\Users\HP\source\repos\Zombies\bin\Debug\netcoreapp3.1\Zombies.pdb
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.Form1.resources
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.Properties.Resources.resources
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.AssemblyInfo.cs
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.dll
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.pdb
+C:\Users\HP\source\repos\Zombies\obj\Debug\netcoreapp3.1\Zombies.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "taIkywh+wEA58iSchgdhChNDIS7AnNgzzp6IvUSzgK3mwDvvhO30rOuuc5h8bJdZ/XcSULSr7xOgBFOlBbLqGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Zombies\\Zombies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
